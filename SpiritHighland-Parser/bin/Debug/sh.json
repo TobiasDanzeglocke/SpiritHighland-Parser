@@ -811,8 +811,8 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 0},
-            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "dark admiral", "sr": true, "trans": 0},
+            {"count": 2, "unit": "lich", "sr": true, "trans": 0},
             {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0}
          ]
       ]
@@ -948,7 +948,7 @@
       ],
       "solutions": [
          [
-            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 2, "unit": "lich", "sr": true, "trans": 0},
             {"count": 1, "unit": "alchemist", "sr": false, "trans": 0}
          ]
       ]
@@ -1119,7 +1119,7 @@
    "9": {
       "forbidden": [6],
       "enemies": [
-         {"count": 3, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
          {"count": 3, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
       ],
       "solutions": [
@@ -1417,8 +1417,8 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 0},
-            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "dark admiral", "sr": true, "trans": 0},
+            {"count": 1, "unit": "lich", "sr": true, "trans": 0},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 0}
          ]
       ]
@@ -1551,7 +1551,7 @@
    "20": {
       "forbidden": [0],
       "enemies": [
-         {"count": 2, "unit": "hoyden goku", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "hoyden goku", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
          {"count": 2, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "fire mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
          {"count": 4, "unit": "fairy", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
@@ -1559,7 +1559,7 @@
       "solutions": [
          [
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 0},
-            {"count": 1, "unit": "raptor rider", "sr": false, "trans": 0}
+            {"count": 1, "unit": "raptor rider", "sr": true, "trans": 0}
          ]
       ]
    }
@@ -1879,7 +1879,7 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "blade master", "sr": false, "trans": 3}
+            {"count": 1, "unit": "blade master", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -1898,16 +1898,16 @@
    "5": {
       "forbidden": [0, "orc"],
       "enemies": [
-         {"count": 2, "unit": "hoyden goku", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 2, "unit": "dark admiral", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 2, "unit": "raptor rider", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 2, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+         {"count": 2, "unit": "hoyden goku", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "dark admiral", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "raptor rider", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "hot-blooded xuanzang", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
       ],
       "solutions": [
          [
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
          ]
       ]
@@ -1920,7 +1920,7 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "blade master", "sr": false, "trans": 3},
+            {"count": 1, "unit": "blade master", "sr": true, "trans": 3},
             {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3}
          ]
       ]
@@ -1933,7 +1933,7 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "blade master", "sr": false, "trans": 3},
+            {"count": 1, "unit": "blade master", "sr": true, "trans": 3},
             {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3}
          ]
       ]
@@ -1977,13 +1977,13 @@
       "enemies": [
          {"count": 1, "unit": "ent", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
          {"count": 17, "unit": "succubus", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "dark ninja", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+         {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
       ],
       "solutions": [
          [
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
             {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3}
          ]
@@ -2009,7 +2009,7 @@
       "solutions": [
          [
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 1, "unit": "blade master", "sr": false, "trans": 3}
+            {"count": 1, "unit": "blade master", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2058,8 +2058,8 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "dark spirit", "sr": false, "trans": 3},
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "dark spirit", "sr": true, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
             {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3},
@@ -2170,7 +2170,7 @@
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 2, "unit": "priest", "sr": true, "trans": 0},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2198,7 +2198,7 @@
          [
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3}
          ]
       ]
@@ -2206,7 +2206,7 @@
    "8": {
       "forbidden": [6, "flying"],
       "enemies": [
-         {"count": 1, "unit": "golem", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 3, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
       ],
       "solutions": [
@@ -2244,7 +2244,7 @@
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 2, "unit": "priest", "sr": true, "trans": 0},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2283,7 +2283,7 @@
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
             {"count": 2, "unit": "priest", "sr": true, "trans": 0},
-            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 1, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2365,7 +2365,7 @@
          [
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 1, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2382,7 +2382,7 @@
          [
             {"count": 1, "unit": "golem", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
-            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 2, "unit": "priest", "sr": true, "trans": 0}
          ]
       ]
@@ -2391,7 +2391,7 @@
       "forbidden": [0, "flying"],
       "enemies": [
          {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
-         {"count": 11, "unit": "pilot", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+         {"count": 11, "unit": "pilot", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
       ],
       "solutions": [
          [
@@ -2424,7 +2424,7 @@
          [
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
-            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": true, "trans": 3},
             {"count": 1, "unit": "druid", "sr": true, "trans": 3},
             {"count": 2, "unit": "priest", "sr": true, "trans": 0}
          ]
@@ -2470,7 +2470,7 @@
          [
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
-            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": true, "trans": 3},
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 0},
             {"count": 1, "unit": "druid", "sr": true, "trans": 3},
             {"count": 1, "unit": "aladdin", "sr": true, "trans": 1}
@@ -2520,9 +2520,9 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 3},
+            {"count": 1, "unit": "dark admiral", "sr": true, "trans": 3},
             {"count": 1, "unit": "succubus", "sr": true, "trans": 3},
-            {"count": 2, "unit": "lich", "sr": false, "trans": 0}
+            {"count": 2, "unit": "lich", "sr": true, "trans": 0}
          ]
       ]
    },
@@ -2574,9 +2574,9 @@
          [
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
             {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
-            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
-            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
-            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 3}
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": true, "trans": 3},
+            {"count": 2, "unit": "lich", "sr": true, "trans": 0},
+            {"count": 1, "unit": "dark admiral", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2614,10 +2614,10 @@
       ],
       "solutions": [
          [
-            {"count": 1, "unit": "dark spirit", "sr": false, "trans": 3},
-            {"count": 1, "unit": "hippogriff", "sr": false, "trans": 3},
+            {"count": 1, "unit": "dark spirit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hippogriff", "sr": true, "trans": 3},
             {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
-            {"count": 2, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 2, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2641,7 +2641,7 @@
       ],
       "solutions": [
          [
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3}
          ]
       ]
    },
@@ -2651,11 +2651,11 @@
          {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "fire mage", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "gunner", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "priest", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "priest", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "aladdin", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "griffin rider", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "pilot", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+         {"count": 1, "unit": "griffin rider", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "hot-blooded xuanzang", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "pilot", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
       ],
       "solutions": [
          [
@@ -2690,7 +2690,7 @@
       ],
       "solutions": [
          [
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
          ]
       ]
@@ -2717,7 +2717,7 @@
       ],
       "solutions": [
          [
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3}
          ]
       ]
@@ -2729,14 +2729,14 @@
          {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "unicorn knight", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
          {"count": 1, "unit": "fairy", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "druid", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "forest guardian", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "hoyden goku", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
-         {"count": 1, "unit": "alchemist", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+         {"count": 1, "unit": "druid", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "forest guardian", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "hoyden goku", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "alchemist", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
       ],
       "solutions": [
          [
-            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": true, "trans": 3},
             {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3}
          ]
       ]

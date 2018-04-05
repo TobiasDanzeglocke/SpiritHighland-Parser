@@ -117,6 +117,12 @@ namespace SpiritHighland_Parser {
         public Unit(string input) {
             input = CleanSonderzeichen(input);
 
+            if (input.Contains("Entiwkckelter")) {
+                input = input.Replace("Entiwkckelter", "Entwickelter");
+            } else if (input.Contains("Entwicketer")) {
+                input = input.Replace("Entwicketer", "Entwickelter");
+            }
+
             dictionary = new Unit_Dicitonary();
             Senior = false;
             Trans = 0;
@@ -137,7 +143,7 @@ namespace SpiritHighland_Parser {
                 }
 
                 if (!Senior) {
-                    if (tempList[i].Contains("Entwickelte") || tempList[i].Contains("höhere") || tempList[i].Contains("Senior")) {
+                    if (tempList[i].ToLower().Contains("entwickelte") || tempList[i].ToLower().Contains("höhere") || tempList[i].ToLower().Contains("senior")) {
                         Senior = true;
                     }
                 }
@@ -199,6 +205,10 @@ namespace SpiritHighland_Parser {
                 shield = availableShield.m;
             } else {
                 shield = availableShield.none;
+            }
+
+            if (Trans != 0 && Senior == false) {
+                Senior = true;
             }
         }
 
