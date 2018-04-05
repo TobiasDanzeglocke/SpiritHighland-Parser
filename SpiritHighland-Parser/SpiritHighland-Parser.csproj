@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1A7692D0-A5C8-4B86-BBD3-441B721103B6}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SpiritHighland_Parser</RootNamespace>
+    <AssemblyName>SpiritHighland-Parser</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forbidden.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpiritHighland.cs" />
+    <Compile Include="Unit-Dicitonary.cs" />
+    <Compile Include="Unit.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Daten\sh1-1.rtf" />
+    <None Include="Daten\sh1-10.rtf" />
+    <None Include="Daten\sh1-11.rtf" />
+    <None Include="Daten\sh1-12.rtf" />
+    <None Include="Daten\sh1-13.rtf" />
+    <None Include="Daten\sh1-14.rtf" />
+    <None Include="Daten\sh1-15.rtf" />
+    <None Include="Daten\sh1-16.rtf" />
+    <None Include="Daten\sh1-17.rtf" />
+    <None Include="Daten\sh1-18.rtf" />
+    <None Include="Daten\sh1-19.rtf" />
+    <None Include="Daten\sh1-2.rtf" />
+    <None Include="Daten\sh1-20.rtf" />
+    <None Include="Daten\sh1-3.rtf" />
+    <None Include="Daten\sh1-4.rtf" />
+    <None Include="Daten\sh1-5.rtf" />
+    <None Include="Daten\sh1-6.rtf" />
+    <None Include="Daten\sh1-7.rtf" />
+    <None Include="Daten\sh1-8.rtf" />
+    <None Include="Daten\sh1-9.rtf" />
+    <None Include="Daten\sh10-1.rtf" />
+    <None Include="Daten\sh10-10.rtf" />
+    <None Include="Daten\sh10-11.rtf" />
+    <None Include="Daten\sh10-12.rtf" />
+    <None Include="Daten\sh10-13.rtf" />
+    <None Include="Daten\sh10-2.rtf" />
+    <None Include="Daten\sh10-3.rtf" />
+    <None Include="Daten\sh10-4.rtf" />
+    <None Include="Daten\sh10-5.rtf" />
+    <None Include="Daten\sh10-6.rtf" />
+    <None Include="Daten\sh10-8.rtf" />
+    <None Include="Daten\sh10-9.rtf" />
+    <None Include="Daten\sh11-1.rtf" />
+    <None Include="Daten\sh11-10.rtf" />
+    <None Include="Daten\sh11-2.rtf" />
+    <None Include="Daten\sh11-3.rtf" />
+    <None Include="Daten\sh11-4.rtf" />
+    <None Include="Daten\sh11-5.rtf" />
+    <None Include="Daten\sh11-6.rtf" />
+    <None Include="Daten\sh11-7.rtf" />
+    <None Include="Daten\sh11-8.rtf" />
+    <None Include="Daten\sh11-9.rtf" />
+    <None Include="Daten\sh2-1.rtf" />
+    <None Include="Daten\sh2-10.rtf" />
+    <None Include="Daten\sh2-11.rtf" />
+    <None Include="Daten\sh2-12.rtf" />
+    <None Include="Daten\sh2-13.rtf" />
+    <None Include="Daten\sh2-14.rtf" />
+    <None Include="Daten\sh2-15.rtf" />
+    <None Include="Daten\sh2-16.rtf" />
+    <None Include="Daten\sh2-17.rtf" />
+    <None Include="Daten\sh2-18.rtf" />
+    <None Include="Daten\sh2-19.rtf" />
+    <None Include="Daten\sh2-2.rtf" />
+    <None Include="Daten\sh2-20.rtf" />
+    <None Include="Daten\sh2-3.rtf" />
+    <None Include="Daten\sh2-4.rtf" />
+    <None Include="Daten\sh2-5.rtf" />
+    <None Include="Daten\sh2-6.rtf" />
+    <None Include="Daten\sh2-7.rtf" />
+    <None Include="Daten\sh2-8.rtf" />
+    <None Include="Daten\sh2-9.rtf" />
+    <None Include="Daten\sh3-1.rtf" />
+    <None Include="Daten\sh3-10.rtf" />
+    <None Include="Daten\sh3-11.rtf" />
+    <None Include="Daten\sh3-12.rtf" />
+    <None Include="Daten\sh3-13.rtf" />
+    <None Include="Daten\sh3-14.rtf" />
+    <None Include="Daten\sh3-15.rtf" />
+    <None Include="Daten\sh3-16.rtf" />
+    <None Include="Daten\sh3-17.rtf" />
+    <None Include="Daten\sh3-18.rtf" />
+    <None Include="Daten\sh3-19.rtf" />
+    <None Include="Daten\sh3-2.rtf" />
+    <None Include="Daten\sh3-20.rtf" />
+    <None Include="Daten\sh3-3.rtf" />
+    <None Include="Daten\sh3-4.rtf" />
+    <None Include="Daten\sh3-5.rtf" />
+    <None Include="Daten\sh3-6.rtf" />
+    <None Include="Daten\sh3-7.rtf" />
+    <None Include="Daten\sh3-8.rtf" />
+    <None Include="Daten\sh3-9.rtf" />
+    <None Include="Daten\sh4-1.rtf" />
+    <None Include="Daten\sh4-10.rtf" />
+    <None Include="Daten\sh4-11.rtf" />
+    <None Include="Daten\sh4-12.rtf" />
+    <None Include="Daten\sh4-13.rtf" />
+    <None Include="Daten\sh4-14.rtf" />
+    <None Include="Daten\sh4-15.rtf" />
+    <None Include="Daten\sh4-16.rtf" />
+    <None Include="Daten\sh4-17.rtf" />
+    <None Include="Daten\sh4-18.rtf" />
+    <None Include="Daten\sh4-19.rtf" />
+    <None Include="Daten\sh4-2.rtf" />
+    <None Include="Daten\sh4-20.rtf" />
+    <None Include="Daten\sh4-3.rtf" />
+    <None Include="Daten\sh4-4.rtf" />
+    <None Include="Daten\sh4-5.rtf" />
+    <None Include="Daten\sh4-6.rtf" />
+    <None Include="Daten\sh4-7.rtf" />
+    <None Include="Daten\sh4-8.rtf" />
+    <None Include="Daten\sh4-9.rtf" />
+    <None Include="Daten\sh5-1.rtf" />
+    <None Include="Daten\sh5-10.rtf" />
+    <None Include="Daten\sh5-11.rtf" />
+    <None Include="Daten\sh5-12.rtf" />
+    <None Include="Daten\sh5-13.rtf" />
+    <None Include="Daten\sh5-14.rtf" />
+    <None Include="Daten\sh5-15.rtf" />
+    <None Include="Daten\sh5-16.rtf" />
+    <None Include="Daten\sh5-17.rtf" />
+    <None Include="Daten\sh5-18.rtf" />
+    <None Include="Daten\sh5-19.rtf" />
+    <None Include="Daten\sh5-2.rtf" />
+    <None Include="Daten\sh5-20.rtf" />
+    <None Include="Daten\sh5-3.rtf" />
+    <None Include="Daten\sh5-4.rtf" />
+    <None Include="Daten\sh5-5.rtf" />
+    <None Include="Daten\sh5-6.rtf" />
+    <None Include="Daten\sh5-7.rtf" />
+    <None Include="Daten\sh5-8.rtf" />
+    <None Include="Daten\sh5-9.rtf" />
+    <None Include="Daten\sh6-1.rtf" />
+    <None Include="Daten\sh6-10.rtf" />
+    <None Include="Daten\sh6-11.rtf" />
+    <None Include="Daten\sh6-12.rtf" />
+    <None Include="Daten\sh6-13.rtf" />
+    <None Include="Daten\sh6-14.rtf" />
+    <None Include="Daten\sh6-15.rtf" />
+    <None Include="Daten\sh6-16.rtf" />
+    <None Include="Daten\sh6-17.rtf" />
+    <None Include="Daten\sh6-18.rtf" />
+    <None Include="Daten\sh6-19.rtf" />
+    <None Include="Daten\sh6-2.rtf" />
+    <None Include="Daten\sh6-20.rtf" />
+    <None Include="Daten\sh6-3.rtf" />
+    <None Include="Daten\sh6-4.rtf" />
+    <None Include="Daten\sh6-5.rtf" />
+    <None Include="Daten\sh6-6.rtf" />
+    <None Include="Daten\sh6-7.rtf" />
+    <None Include="Daten\sh6-8.rtf" />
+    <None Include="Daten\sh6-9.rtf" />
+    <None Include="Daten\sh7-1.rtf" />
+    <None Include="Daten\sh7-10.rtf" />
+    <None Include="Daten\sh7-11.rtf" />
+    <None Include="Daten\sh7-12.rtf" />
+    <None Include="Daten\sh7-13.rtf" />
+    <None Include="Daten\sh7-14.rtf" />
+    <None Include="Daten\sh7-15.rtf" />
+    <None Include="Daten\sh7-16.rtf" />
+    <None Include="Daten\sh7-17.rtf" />
+    <None Include="Daten\sh7-18.rtf" />
+    <None Include="Daten\sh7-19.rtf" />
+    <None Include="Daten\sh7-2.rtf" />
+    <None Include="Daten\sh7-20.rtf" />
+    <None Include="Daten\sh7-3.rtf" />
+    <None Include="Daten\sh7-4.rtf" />
+    <None Include="Daten\sh7-5.rtf" />
+    <None Include="Daten\sh7-6.rtf" />
+    <None Include="Daten\sh7-7.rtf" />
+    <None Include="Daten\sh7-8.rtf" />
+    <None Include="Daten\sh7-9.rtf" />
+    <None Include="Daten\sh8-1.rtf" />
+    <None Include="Daten\sh8-10.rtf" />
+    <None Include="Daten\sh8-11.rtf" />
+    <None Include="Daten\sh8-12.rtf" />
+    <None Include="Daten\sh8-13.rtf" />
+    <None Include="Daten\sh8-14.rtf" />
+    <None Include="Daten\sh8-15.rtf" />
+    <None Include="Daten\sh8-16.rtf" />
+    <None Include="Daten\sh8-2.rtf" />
+    <None Include="Daten\sh8-20.rtf" />
+    <None Include="Daten\sh8-3.rtf" />
+    <None Include="Daten\sh8-4.rtf" />
+    <None Include="Daten\sh8-5.rtf" />
+    <None Include="Daten\sh8-6.rtf" />
+    <None Include="Daten\sh8-7.rtf" />
+    <None Include="Daten\sh8-8.rtf" />
+    <None Include="Daten\sh8-9.rtf" />
+    <None Include="Daten\sh9-1.rtf" />
+    <None Include="Daten\sh9-10.rtf" />
+    <None Include="Daten\sh9-11.rtf" />
+    <None Include="Daten\sh9-12.rtf" />
+    <None Include="Daten\sh9-13.rtf" />
+    <None Include="Daten\sh9-14.rtf" />
+    <None Include="Daten\sh9-15.rtf" />
+    <None Include="Daten\sh9-16.rtf" />
+    <None Include="Daten\sh9-17.rtf" />
+    <None Include="Daten\sh9-18.rtf" />
+    <None Include="Daten\sh9-19.rtf" />
+    <None Include="Daten\sh9-2.rtf" />
+    <None Include="Daten\sh9-20.rtf" />
+    <None Include="Daten\sh9-3.rtf" />
+    <None Include="Daten\sh9-4.rtf" />
+    <None Include="Daten\sh9-5.rtf" />
+    <None Include="Daten\sh9-6.rtf" />
+    <None Include="Daten\sh9-7.rtf" />
+    <None Include="Daten\sh9-8.rtf" />
+    <None Include="Daten\sh9-9.rtf" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

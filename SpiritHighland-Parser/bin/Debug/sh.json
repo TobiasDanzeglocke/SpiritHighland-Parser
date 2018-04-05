@@ -1,0 +1,2744 @@
+"1": {
+   "1": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "skeleton unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "elf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "hammer knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "orc hunter", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 3, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "orc hunter", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 3, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "ghost", "sr": false, "trans": 0},
+            {"count": 1, "unit": "warlock", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 2, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 3, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 8, "unit": "elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "hammer knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 8, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "heavy infantry", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 4, "unit": "orc fighter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "dark archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "elf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 4, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 5, "unit": "orc hunter", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 4, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "skeleton warrior", "sr": false, "trans": 0},
+            {"count": 1, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [6, "flying", "undead"],
+      "enemies": [
+         {"count": 8, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "hammer knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [0, "range", "flying"],
+      "enemies": [
+         {"count": 4, "unit": "green eagle", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"2": {
+   "1": {
+      "forbidden": [3],
+      "enemies": [
+         {"count": 3, "unit": "orc fighter", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "warlock", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [1, "flying", "orc"],
+      "enemies": [
+         {"count": 3, "unit": "orc fighter", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "skeleton unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 12, "unit": "orc hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc ax unit", "sr": false, "trans": 0},
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5, "orc"],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 7, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "skeleton warrior", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc wing", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5, "melee"],
+      "enemies": [
+         {"count": 10, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "black magic wizard", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 3, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "skeleton warrior", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc wing", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "orc fighter", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 2, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 8, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 6, "unit": "orc ax unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [3],
+      "enemies": [
+         {"count": 1, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "elf warrior", "sr": false, "trans": 0},
+            {"count": 2, "unit": "poison archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 2, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 2, "unit": "orc wing", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 3, "unit": "orc fighter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0},
+            {"count": 4, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 5, "unit": "skeleton unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [4, "melee"],
+      "enemies": [
+         {"count": 8, "unit": "poison archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 5, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 2, "unit": "elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "elf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "poison archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc ax unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [5, "flying", "undead"],
+      "enemies": [
+         {"count": 4, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 8, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [4, "flying", "undead"],
+      "enemies": [
+         {"count": 3, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "high elf archer", "sr": false, "trans": 0},
+            {"count": 3, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "hammer knight", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"3": {
+   "1": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 5, "unit": "elf warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 0, "unit": "poison archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [4, "melee"],
+      "enemies": [
+         {"count": 10, "unit": "green eagle", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5, "undead"],
+      "enemies": [
+         {"count": 7, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "poison archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 3, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 16, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0},
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 4, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "hammer knight", "sr": false, "trans": 0},
+            {"count": 2, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [4, "undead"],
+      "enemies": [
+         {"count": 3, "unit": "orc fighter", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "orc hunter", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 4, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [4, "melee"],
+      "enemies": [
+         {"count": 12, "unit": "ghost", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 5, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 12, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "ghost", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hands of death", "sr": false, "trans": 0},
+            {"count": 3, "unit": "unicorn knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "orc fighter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 3, "unit": "cavalry knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 5, "unit": "orc hammer unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 4, "unit": "orc hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [4, "flying", "undead"],
+      "enemies": [
+         {"count": 1, "unit": "wolf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0, "elite": 0, "shield": "p"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 2, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 24, "unit": "elf warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": false, "trans": 0},
+            {"count": 1, "unit": "fire mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 12, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": false, "trans": 0},
+            {"count": 1, "unit": "fire mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0},
+            {"count": 1, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [4, "elf"],
+      "enemies": [
+         {"count": 2, "unit": "orc hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 4, "unit": "green eagle", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": false, "trans": 0},
+            {"count": 5, "unit": "fire bird", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 8, "unit": "elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"4": {
+   "1": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 2, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [3, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "frost mage", "sr": false, "trans": 0},
+            {"count": 4, "unit": "warlock", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 3, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "poison archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "flying"],
+      "enemies": [
+         {"count": 6, "unit": "wolf rider", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 0},
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "skeleton warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "warlock", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [6, "female"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [5, "flying", "undead"],
+      "enemies": [
+         {"count": 1, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc ax unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [4, "flying", "undead"],
+      "enemies": [
+         {"count": 3, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "high elf archer", "sr": false, "trans": 0},
+            {"count": 6, "unit": "orc hammer unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "skeleton warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "poison archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wind mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": false, "trans": 0},
+            {"count": 2, "unit": "fire mage", "sr": false, "trans": 0},
+            {"count": 2, "unit": "wolf warrior", "sr": false, "trans": 0},
+            {"count": 1, "unit": "pilot", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [0, "female"],
+      "enemies": [
+         {"count": 5, "unit": "bomb unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "alchemist", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 2, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "poison archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 5, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "orc hunter", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0},
+            {"count": 1, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "druid", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "fire mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "green eagle", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3}
+         ]
+      ]
+   }
+},
+"5": {
+   "1": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 2, "unit": "orc ax unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "high elf archer", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5, "flying", "undead"],
+      "enemies": [
+         {"count": 3, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 4, "unit": "cavalry knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 3, "unit": "ice wizard", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [5, "undead"],
+      "enemies": [
+         {"count": 3, "unit": "great hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "black magic wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 2, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 2, "unit": "druid", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "orc hunter", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 5, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [4, "flying", "undead"],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": false, "trans": 0},
+            {"count": 4, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 3, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [3, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "fire mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 3, "unit": "frost mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [3, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wind mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 6, "unit": "orc hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 10, "unit": "green eagle", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0},
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "unicorn knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 3, "unit": "skeleton warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [4, "melee", "flying"],
+      "enemies": [
+         {"count": 1, "unit": "dark archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 3, "unit": "hammer knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [4, "flying", "undead"],
+      "enemies": [
+         {"count": 4, "unit": "infantry", "sr": true, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 4, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "hammer knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 1, "unit": "death knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf archer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 6, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "raptor rider", "sr": false, "trans": 0},
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [6, "flying", "female"],
+      "enemies": [
+         {"count": 12, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 12, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"6": {
+   "1": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "p"}
+      ],
+      "solutions": [
+         [
+            {"count": 5, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 2, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "poison archer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 4, "unit": "skeleton warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 7, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "flying"],
+      "enemies": [
+         {"count": 8, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 8, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 8, "unit": "great hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [4, "flying", "female"],
+      "enemies": [
+         {"count": 1, "unit": "dark ninja", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 6, "unit": "orc ax unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 5, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "orc wing", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 2, "unit": "fire mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [6, "female", "flying"],
+      "enemies": [
+         {"count": 6, "unit": "orc hunter", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [0, "elf", "flying"],
+      "enemies": [
+         {"count": 5, "unit": "wolf rider", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "druid", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 0},
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [5, "undead"],
+      "enemies": [
+         {"count": 4, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "green eagle", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 4, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 12, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "skeleton warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "hands of death", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "infantry", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 3, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "orc ax unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0},
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [0, "female"],
+      "enemies": [
+         {"count": 4, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "great hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 8, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wind mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 3, "unit": "death knight", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "valkyrie", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 7, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hands of death", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 12, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": false, "trans": 0},
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 2, "unit": "raptor rider", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "cavalry knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "fire bird", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 3, "unit": "gunner", "sr": false, "trans": 0},
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 2, "unit": "hoyden goku", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "fairy", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 0},
+            {"count": 1, "unit": "raptor rider", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"7": {
+   "1": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 6, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "orc wing", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 7, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "ice wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 4, "unit": "orc hunter", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5, "flying", "female"],
+      "enemies": [
+         {"count": 1, "unit": "wolf rider", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5, "flying", "human"],
+      "enemies": [
+         {"count": 6, "unit": "skeleton unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 8, "unit": "warlock", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [5, "melee"],
+      "enemies": [
+         {"count": 24, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 3},
+            {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "musketeer", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 6, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0},
+            {"count": 2, "unit": "big foot", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "gunner", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 2, "unit": "fire mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "druid", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "forest guardian", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 3, "unit": "cavalry knight", "sr": false, "trans": 0},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [6, "human", "neutral", "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0},
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 7, "unit": "heavy infantry", "sr": false, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 3, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 0},
+            {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0},
+            {"count": 1, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [6, "female"],
+      "enemies": [
+         {"count": 2, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "m"},
+         {"count": 1, "unit": "ent", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "wolf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [0, "flying"],
+      "enemies": [
+         {"count": 6, "unit": "great hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "skeleton warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [0, "flying", "elf", "orc"],
+      "enemies": [
+         {"count": 6, "unit": "wolf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 5, "unit": "great hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "gunner", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 6, "unit": "orc ax unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "dark ninja", "sr": false, "trans": 0},
+            {"count": 1, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 12, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 2, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf archer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [3, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "druid", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 0}
+         ]
+      ]
+   }
+},
+"8": {
+   "1": {
+      "forbidden": [6, "flying", "female"],
+      "enemies": [
+         {"count": 8, "unit": "orc wing", "sr": false, "trans": 0, "elite": 0, "shield": "m"},
+         {"count": 6, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "unicorn knight", "sr": false, "trans": 0},
+            {"count": 2, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [6, "flying", "human"],
+      "enemies": [
+         {"count": 3, "unit": "death knight", "sr": false, "trans": 0, "elite": 0, "shield": "m"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "big foot", "sr": false, "trans": 0},
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 6, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "blade master", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [6, "female"],
+      "enemies": [
+         {"count": 12, "unit": "elf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "poison archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wolf warrior", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 2, "unit": "hoyden goku", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "dark admiral", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "raptor rider", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [0, "human"],
+      "enemies": [
+         {"count": 12, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "blade master", "sr": false, "trans": 3},
+            {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [0, "range"],
+      "enemies": [
+         {"count": 12, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "wind mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "blade master", "sr": false, "trans": 3},
+            {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "orc hammer unit", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "orc ax unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "wind mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "poison archer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 12, "unit": "orc hammer unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 17, "unit": "succubus", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "dark ninja", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [6, "female", "flying"],
+      "enemies": [
+         {"count": 3, "unit": "wolf rider", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "hammer knight", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 9, "unit": "cavalry knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "wind mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "blade master", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [5, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "gunner", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "poison archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "cavalry knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "wind mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "hands of death", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "succubus", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 15, "unit": "ghost", "sr": true, "trans": 0, "elite": 0, "shield": "p"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark spirit", "sr": false, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [4, "female"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "musketeer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "ent", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "hands of death", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 30, "unit": "battle drummer", "sr": true, "trans": 3, "elite": 3, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "succubus", "sr": true, "trans": 3},
+            {"count": 1, "unit": "priest", "sr": true, "trans": 0},
+            {"count": 3, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "aladdin", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"9": {
+   "1": {
+      "forbidden": [6, "female"],
+      "enemies": [
+         {"count": 6, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "high elf archer", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [0, "female", "elf"],
+      "enemies": [
+         {"count": 30, "unit": "high elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "ent", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "hands of death", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 350, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 6, "unit": "fire bird", "sr": true, "trans": 3, "elite": 3, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5, "elf", "flying"],
+      "enemies": [
+         {"count": 1, "unit": "hands of death", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "wolf warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "fire mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [4],
+      "enemies": [
+         {"count": 12, "unit": "elf warrior", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "elf archer", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "warlock", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 12, "unit": "musketeer", "sr": true, "trans": 3, "elite": 2, "shield": "none"},
+         {"count": 12, "unit": "hammer knight", "sr": true, "trans": 3, "elite": 2, "shield": "none"},
+         {"count": 12, "unit": "cavalry knight", "sr": true, "trans": 3, "elite": 2, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": true, "trans": 3, "elite": 2, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [5, "melee", "flying"],
+      "enemies": [
+         {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 8, "unit": "wind mage", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 12, "unit": "infantry", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 4, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 24, "unit": "fire bird", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0},
+            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "14": {
+      "forbidden": [5, "flying", "undead"],
+      "enemies": [
+         {"count": 4, "unit": "cavalry knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "15": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 60, "unit": "infantry", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 60, "unit": "fire bird", "sr": true, "trans": 3, "elite": 1, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "16": {
+      "forbidden": [4, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "heavy infantry", "sr": true, "trans": 3},
+            {"count": 1, "unit": "elf warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc fighter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "17": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 2, "unit": "hammer knight", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "heavy infantry", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "black magic wizard", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "frost mage", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "18": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 2, "unit": "hands of death", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "black magic wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "musketeer", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "frost mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "19": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 2, "unit": "hands of death", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "big foot", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "orc wing", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "green eagle", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "20": {
+      "forbidden": [0, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 11, "unit": "pilot", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "golem", "sr": true, "trans": 3},
+            {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   }
+},
+"10": {
+   "1": {
+      "forbidden": [6],
+      "enemies": [
+         {"count": 3, "unit": "skeleton warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 9, "unit": "frost mage", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "druid", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [0],
+      "enemies": [
+         {"count": 6, "unit": "druid", "sr": true, "trans": 2, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
+            {"count": 1, "unit": "druid", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [5, "female"],
+      "enemies": [
+         {"count": 1, "unit": "gunner", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wind mage", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [5, "female"],
+      "enemies": [
+         {"count": 1, "unit": "druid", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "flying", "melee", "orc"],
+      "enemies": [
+         {"count": 4, "unit": "ent", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 30, "unit": "green eagle", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 40, "unit": "green eagle", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 50, "unit": "green eagle", "sr": true, "trans": 2, "elite": 0, "shield": "none"},
+         {"count": 60, "unit": "green eagle", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 0},
+            {"count": 1, "unit": "druid", "sr": true, "trans": 3},
+            {"count": 1, "unit": "aladdin", "sr": true, "trans": 1}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "skeleton unit", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [5],
+      "enemies": [
+         {"count": 3, "unit": "death knight", "sr": true, "trans": 0, "elite": 0, "shield": "p"},
+         {"count": 3, "unit": "gunner", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": false, "trans": 0},
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc wing", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "ice wizard", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "wolf rider", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "sorcerer", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "raptor rider", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "battle drummer", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 3},
+            {"count": 1, "unit": "succubus", "sr": true, "trans": 3},
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [0, "flying", "orc"],
+      "enemies": [
+         {"count": 20, "unit": "heavy infantry", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 20, "unit": "orc hunter", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 20, "unit": "heavy infantry", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "forest guardian", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 20, "unit": "orc hunter", "sr": true, "trans": 3, "elite": 3, "shield": "none"},
+         {"count": 1, "unit": "forest guardian", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 20, "unit": "orc hunter", "sr": true, "trans": 3, "elite": 3, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3},
+            {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3},
+            {"count": 3, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 2, "unit": "priest", "sr": true, "trans": 0}
+         ]
+      ]
+   },
+   "11": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 5, "unit": "ice wizard", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "skeleton warrior", "sr": true, "trans": 3},
+            {"count": 1, "unit": "great hammer unit", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "orc hunter", "sr": true, "trans": 3},
+            {"count": 2, "unit": "black magic wizard", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "12": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 1, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 26, "unit": "orc wing", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3},
+            {"count": 1, "unit": "steampunk", "sr": true, "trans": 3},
+            {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3},
+            {"count": 2, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "dark admiral", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "13": {
+      "forbidden": [6, "flying", "human"],
+      "enemies": [
+         {"count": 8, "unit": "death knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   }
+},
+"11": {
+   "1": {
+      "forbidden": [6, "flying", "human"],
+      "enemies": [
+         {"count": 8, "unit": "death knight", "sr": false, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "naga", "sr": false, "trans": 0}
+         ]
+      ]
+   },
+   "2": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 3, "unit": "golem", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "fire mage", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "gunner", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "aladdin", "sr": true, "trans": 1, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "hippogriff", "sr": false, "trans": 3},
+            {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
+            {"count": 2, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "3": {
+      "forbidden": [6, "flying"],
+      "enemies": [
+         {"count": 4, "unit": "dark ninja", "sr": true, "trans": 1, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 2, "unit": "wind mage", "sr": true, "trans": 3},
+            {"count": 1, "unit": "lich", "sr": false, "trans": 0},
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "4": {
+      "forbidden": [0, "flying", "orc", "elf"],
+      "enemies": [
+         {"count": 6, "unit": "wolf warrior", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3}
+         ]
+      ]
+   },
+   "5": {
+      "forbidden": [0, "flying", "orc"],
+      "enemies": [
+         {"count": 1, "unit": "golem", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fire mage", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "gunner", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "priest", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "aladdin", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "griffin rider", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "hot-blooded xuanzang", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "pilot", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "dark ninja", "sr": true, "trans": 3},
+            {"count": 1, "unit": "sword dancer", "sr": true, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "6": {
+      "forbidden": [5, "flying"],
+      "enemies": [
+         {"count": 24, "unit": "fire bird", "sr": false, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 4, "unit": "skeleton unit", "sr": true, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 1, "unit": "hammer knight", "sr": true, "trans": 3},
+            {"count": 1, "unit": "high elf archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "poison archer", "sr": true, "trans": 3},
+            {"count": 1, "unit": "musketeer", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "7": {
+      "forbidden": [0, "orc"],
+      "enemies": [
+         {"count": 3, "unit": "ent", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "unicorn knight", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 3, "unit": "wolf warrior", "sr": true, "trans": 1, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "druid", "sr": true, "trans": 1, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 2, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "8": {
+      "forbidden": [6, "orc"],
+      "enemies": [
+         {"count": 7, "unit": "unicorn knight", "sr": true, "trans": 1, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "hammer knight", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "9": {
+      "forbidden": [6, "orc"],
+      "enemies": [
+         {"count": 2, "unit": "hands of death", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 2, "unit": "big foot", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "fire bird", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "orc wing", "sr": true, "trans": 0, "elite": 0, "shield": "none"},
+         {"count": 12, "unit": "green eagle", "sr": true, "trans": 0, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   },
+   "10": {
+      "forbidden": [0, "flying", "orc"],
+      "enemies": [
+         {"count": 1, "unit": "ent", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "wolf warrior", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "unicorn knight", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "fairy", "sr": true, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "druid", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "forest guardian", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "hoyden goku", "sr": false, "trans": 3, "elite": 0, "shield": "none"},
+         {"count": 1, "unit": "alchemist", "sr": false, "trans": 3, "elite": 0, "shield": "none"}
+      ],
+      "solutions": [
+         [
+            {"count": 3, "unit": "flame spirit", "sr": false, "trans": 3},
+            {"count": 1, "unit": "valkyrie", "sr": true, "trans": 3}
+         ]
+      ]
+   }
+}

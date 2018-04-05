@@ -1,0 +1,6 @@
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\bin\Debug\SpiritHighland-Parser.exe.config
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\bin\Debug\SpiritHighland-Parser.exe
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\bin\Debug\SpiritHighland-Parser.pdb
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\obj\Debug\SpiritHighland-Parser.exe
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\obj\Debug\SpiritHighland-Parser.pdb
+C:\Users\danzeglo\Documents\Visual Studio 2015\Projects\SpiritHighland-Parser\SpiritHighland-Parser\obj\Debug\SpiritHighland-Parser.csprojResolveAssemblyReference.cache
